@@ -27,7 +27,12 @@ def create_movie_tiles_content(movies):
             trailer_youtube_id=trailer_youtube_id,
             plot=movie.Plot,
             actors=movie.Actors,
-            rating=movie.Rated
+            rating=movie.Rated,
+            director=movie.Director,
+            writer=movie.Writer,
+            awards=movie.Awards,
+            released=movie.Released,
+            runtime=movie.Runtime
         )
     return content
 

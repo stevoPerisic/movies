@@ -15,8 +15,20 @@ $(document).on('click', '.movie-tile', function (event) {
       'frameborder': 0
     }));
 });
+
+function fontResize(){
+    var perc = parseInt($(window).width())/100;
+    $('body').css('font-size',perc);
+}
+
+
+$(window).resize(function () {
+    fontResize();
+});
+
 // Animate in the movies when the page loads
 $(document).ready(function () {
+  fontResize();
   $('.movie-tile').hide().first().show("fast", function showNext() {
     $(this).next("div").show("fast", showNext);
   });

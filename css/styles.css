@@ -1,12 +1,14 @@
 body {
     padding-top: 80px !important;
     font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
 }
-.fa-2x{
-    font-size: 1.5em;
-}
+.fa-2x{ font-size: 1.8em; }
 .fa-video-camera:before{
     margin-right: 20px;
+}
+.navbar-inverse{
+    opacity: 0.9;
 }
 .navbar-inverse .navbar-brand{
     color: #fff;
@@ -101,3 +103,12 @@ body {
     top: 0;
     background-color: white;
 }
+
+@media (max-width: 720px) {
+    .fa-2x{ font-size: 3em; }
+}
+
+@media (max-width: 520px) {
+    .fa-2x{ font-size: 4em; }
+}
+
