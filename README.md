@@ -21,6 +21,9 @@ In the terminal/command prompt enter the following<br>
 <code>cd movies</code><br>
 <code>python entertainmentCenter.py</code>
 
+### Credits
+Icons: <a href="http://fortawesome.github.io/Font-Awesome/icons/">Font Awesome</a>
+
 ### Author
 Stevo Perisic<br/>
 Udacity Profile: <a href="http://discussions.udacity.com/users/stevo_perisic/activity">stevo_perisic</a><br>
