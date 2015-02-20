@@ -7,14 +7,23 @@ of movies titles, along with its respective box art imagery, movie trailer
 website, and other relevant information. The data is served as a web page 
 allowing visitors to review the movies and watch the trailers.
 
+## Requirements
+<ul>
+	<li>Must be connected to the internet</li>
+	<li>Python 2.7.9 installed on the machine</li>
+</ul>
+
 ### How to run it?
 <!-- 5-line code snippet on how its used (if it's a library) -->
 <ul>
-	<li><a href="https://github.com/stevoPerisic/movies/archive/master.zip">Download the latest version</a></li>
+	<li><a href="https://github.com/stevoPerisic/movies/archive/master.zip">Download the latest version</a> or</li>
 	<li>Clone the repository <code>git clone https://github.com/stevoPerisic/movies.git</code></li>
 </ul> 
-Run
-<code>python entertainmentCenter.py</code>
+In the terminal/command prompt
+<code>
+	cd movies
+	python entertainmentCenter.py
+</code>
 
 <!-- copyright and licensing information (or "Read LICENSE") -->
 
