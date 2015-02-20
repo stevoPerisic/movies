@@ -1,10 +1,17 @@
-##HELLO
 <!-- name of the projects and all sub-modules and libraries (sometimes they are named different and very confusing to new users) -->
-# Project 1 - Movie Trailers
+## Project 1 - Movie Trailer Website
 
 <!-- descriptions of all the project, and all sub-modules and libraries -->
-This 
-5-line code snippet on how its used (if it's a library)
+The Movie Trailer Website project consists of server-side code to store a list
+of movies titles, along with its respective box art imagery and movie trailer
+website. The data is served as a web page allowing visitors to review the
+movies and watch the trailers:
+
+<!-- 5-line code snippet on how its used (if it's a library) -->
+Download or clone the project into a folder of choice, fire up the terminal
+and cd into the project folder. Run the following:
+<code>python entartainmentCenter.py</code>
+
 copyright and licensing information (or "Read LICENSE")
 instruction to grab the documentation
 instructions to install, configure, and to run the programs
