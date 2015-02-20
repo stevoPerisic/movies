@@ -11,7 +11,7 @@ movies and watch the trailers:
 <!-- 5-line code snippet on how its used (if it's a library) -->
 Download or clone the project into a folder of choice, fire up the terminal
 and cd into the project folder. Run the following:<br/>
-<code>python entartainmentCenter.py</code>
+<code>python entertainmentCenter.py</code>
 
 <!-- copyright and licensing information (or "Read LICENSE") -->
 

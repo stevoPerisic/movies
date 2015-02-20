@@ -2,6 +2,15 @@ body {
     padding-top: 80px !important;
     font-family: 'Open Sans', sans-serif;
 }
+.fa-2x{
+    font-size: 1.5em;
+}
+.fa-video-camera:before{
+    margin-right: 20px;
+}
+.navbar-inverse .navbar-brand{
+    color: #fff;
+}
 .rating{
     font-size: 15px;
     background-color: orange;
@@ -33,9 +42,28 @@ body {
 .movie-tile {
     margin-bottom: 20px;
     padding-top: 20px;
+    border-bottom-left-radius: 180px;
+    border-top-right-radius: 180px;
+    min-height: 330px;
+}
+.movie-tile::before
+{
+    content: "\f144";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+    color: #fff;
+    font-size: 320px;
+    position: absolute;
+    left: 43%;
+    top: 10%;
 }
 .movie-tile:hover {
-    background-color: #EEE;
+    background-color: #f2f2f2;
     cursor: pointer;
 }
 .movie-tile img{
