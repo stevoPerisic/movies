@@ -28,7 +28,6 @@ class Movie():
 	"""
 	
 	def __init__(self, movie, trailer_youtube_url):
-		print movie
 		for movie_attr in movie:
 			setattr(self, movie_attr, movie[movie_attr])
 		
