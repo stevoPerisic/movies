@@ -18,9 +18,9 @@ allowing visitors to review the movies and watch the trailers.
 	<li><a href="https://github.com/stevoPerisic/movies/archive/master.zip">Download the latest version</a> or</li>
 	<li>Clone the repository <code>git clone https://github.com/stevoPerisic/movies.git</code></li>
 </ul> 
-In the terminal/command prompt
+In the terminal/command prompt enter the following
 <code>
-	cd movies
+	cd movies<br>
 	python entertainmentCenter.py
 </code>
 
