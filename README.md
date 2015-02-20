@@ -32,8 +32,8 @@ instruction to grab the latest code and detailed instructions to build it (or qu
 <!-- list of authors or "Read AUTHORS" -->
 ### Author
 Stevo Perisic<br/>
-Udacity Profile: <a href="http://discussions.udacity.com/users/stevo_perisic/activity">stevo_perisic</a>
-<a href="mailto:sp522p@att.com?subject=feedback" "email me">Send feedback!</a>
+Udacity Profile: <a href="http://discussions.udacity.com/users/stevo_perisic/activity">stevo_perisic</a><br>
+<a href="mailto:sp522p@att.com?subject=feedback" "email me">Send feedback!</a><br>
 <a href="https://twitter.com/stevoperisic">@stevoperisic</a>
 
 <!-- instructions to submit bugs, feature requests, submit patches, join mailing list, get announcements, or join the user or dev community in other forms
