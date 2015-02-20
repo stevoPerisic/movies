@@ -14,7 +14,6 @@ allowing visitors to review the movies and watch the trailers.
 </ul>
 
 ### How to run it?
-<!-- 5-line code snippet on how its used (if it's a library) -->
 <ul>
 	<li><a href="https://github.com/stevoPerisic/movies/archive/master.zip">Download the latest version</a> or</li>
 	<li>Clone the repository <code>git clone https://github.com/stevoPerisic/movies.git</code></li>
