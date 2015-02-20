@@ -19,10 +19,8 @@ allowing visitors to review the movies and watch the trailers.
 	<li>Clone the repository <code>git clone https://github.com/stevoPerisic/movies.git</code></li>
 </ul> 
 In the terminal/command prompt enter the following
-<code>
-	cd movies<br>
-	python entertainmentCenter.py
-</code>
+<code>cd movies</code>
+<code>python entertainmentCenter.py</code>
 
 <!-- copyright and licensing information (or "Read LICENSE") -->
 
