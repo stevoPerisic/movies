@@ -16,6 +16,7 @@ $(document).on('click', '.movie-tile', function (event) {
     }));
 });
 
+// Resizes the font
 function fontResize(){
     var perc = parseInt($(window).width())/100;
     $('body').css('font-size',perc);
